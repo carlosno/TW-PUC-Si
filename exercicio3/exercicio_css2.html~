@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<title>Exercicio 3.1</title>
+<link rel="stylesheet" type="text/css" href="css/exercicio_css.css" />
+</head>
+<body>
+
+<div id="quarta" >
+      <p> Examples <br>
+      </p>
+   </div>
+
+<p>Consider the following rst snippet.</p>
+
+<pre>
+
+ <span class="blue">Title</span>
+ <span class="blue">=====</span>
+ Some text and a target to <span class="blue2">`Title 2`_</span>. <strong>**strong emphasis**:</strong>
+
+ <span class="green">*</span> item1
+ <span class="green">*</span> item2
+
+ <span class="blue">Title2</span>
+ <span class="blue">======</span>
+ .. <span class="green">parsed-literal</span>::
+
+     Inline markup is supported, e.g. *emphasis*, <strong>**strong**</strong>,<span class="blue2">``literal</span>	
+     text``,
+   <span class="blue2">  _`hyperlink targets`, and `references <http://www.python.org>`_</span>			
+</pre>
+
+
+</body>
+</html>

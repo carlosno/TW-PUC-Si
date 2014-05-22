@@ -1,0 +1,56 @@
+
+#top{
+width:40%; height:0%; left:0px; top:0px; position: center; 
+font: bold 30px arial, sans-serif; 
+border-bottom: 2px solid red;
+color: red;
+margin:0 auto;
+
+}
+
+#primeira {
+width:100%; height:0%; left:0px; top:0px; position: center; background-color:#EEE9BF;
+font: bold 15px arial, sans-serif; 
+text-align: lefth ;
+border-width: 2px;
+border-style: dashed;
+padding-left: 18px;
+
+}
+
+#segunda {
+width:100%; position: center; background-color:#B0E2FF;
+font: bold 30px arial, sans-serif;
+border-width: medium;
+border-style: solid;
+border-color:#C1CDC1
+
+}
+
+#terceira {
+width:100%; height:0%; left:0px; top:0px; position: center; background-color:#FFC1C1;
+text-align: lefth ;
+border-width: 3px;
+border-style: solid;
+border-color: #f00;
+}
+span.blue {
+color:blue;
+}
+
+#quarta {width:100%; height:0%; left:0px; top:0px; position: center; background-color:#9FB6CD;
+font: 20px arial, sans-serif; 
+text-align: lefth ;
+border-width: 3px;
+border-color: #f00;
+}
+span.green {
+color:green;
+}
+
+span.blue2 {
+color:#1E90FF;
+}
+
+
+
